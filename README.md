@@ -1,6 +1,6 @@
-# Scientific Python Projects
+# Scientific Projects
 
-A collection of Python projects covering scientific computing and related topics.
+A collection ofprojects covering scientific computing and related topics.
 
 ## Projects
 
